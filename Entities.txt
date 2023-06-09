@@ -1,0 +1,14 @@
+activity 1
+
+design a schema for 2nd hand bike bike uplod buyer
+seller 
+admin 
+bike
+
+student_id (integer, primary key)
+student_name (string)
+student_email (varchar)
+student_gender (enum("m","f"))
+student_dob (date)
+student_phone (bigint)
+student_address (string)
